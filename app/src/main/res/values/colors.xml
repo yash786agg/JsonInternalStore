@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pinkColor">#ff506e</color>
+    <color name="silverColor">#80DFDFE0</color>
+    <color name="edtxtHintColor">#939598</color>
+    <color name="edttxtColor">#4b4f54</color>
+    <color name="lightBlueColor">#7C99A6</color>
+    <color name="lightOrangeColor">#F39C8F</color>
+    <color name="darkBlueColor">#154960</color>
+    <color name="circleColor">#D8C9CC</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

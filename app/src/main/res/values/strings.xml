@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">NestAwayAssign</string>
+    <string name="nestAway">Nest Away</string>
+    <string name="Today">Today</string>
+    <string name="Tomorrow">Tomorrow</string>
+
+    <!--Site Visit Screen-->
+
+    <string name="noExtraCosts">NO EXTRA COSTS</string>
+    <string name="brokerage">We do not charge brokerage or any fees for a house visit.Our representative will be waiting for you at the house at the scheduled time.</string>
+    <string name="scheduleVisit">SCHEDULE A VISIT</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="time">Time</string>
+    <string name="ok">OK</string>
+    <string name="nameBlank">Name can\'t be blank</string>
+    <string name="emailBlank">Email can\'t be blank</string>
+    <string name="phoneBlank">Phone number can\'t be blank</string>
+    <string name="phoneShort">Phone number is too short (minimum 10 characters required)</string>
+    <string name="phoneLong">Phone number is too long</string>
+    <string name="dash">-</string>
+    <string name="colon">:</string>
+    <string name="slash">/</string>
+    <string name="status">Status</string>
+    <string name="updateMsg">User is already present by this name.Are you sure you want to Update?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="noSVToday">No SiteVisit for Today</string>
+    <string name="dataUpdated">Data updated Successfully</string>
+    <string name="dataAdded">Data added Successfully</string>
+
+    <!--Write Json Params-->
+
+    <string name="nameParam">name</string>
+    <string name="emailParam">email</string>
+    <string name="phoneParam">phone</string>
+    <string name="timeParam">time</string>
+    <string name="dateParam">date</string>
+    <string name="visitStatusParam">visit_status</string>
+    <string name="slotBookingParam">slot_booking</string>
+
+    <!--Intent Data Params-->
+
+    <string name="indexPosition">indexPosition</string>
+    <string name="visitorsArrayList">visitorsArrayList</string>
+    <string name="newSV">newSv</string>
+    <string name="trueValue">true</string>
+    <string name="falseValue">false</string>
+    <string name="isData">isData</string>
+
+    <!--Site Visit Status Values-->
+
+    <string-array name="svStatusArray">
+        <item>Not Visited</item>
+        <item>Visited</item>
+        <item>Pending</item>
+        <item>Cancelled</item>
+    </string-array>
+
+    <string name="notVisited">Not Visited</string>
+    <string name="visited">Visited</string>
+    <string name="pending">Pending</string>
+    <string name="cancelled">Cancelled</string>
+
+</resources>
